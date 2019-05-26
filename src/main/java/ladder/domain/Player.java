@@ -1,6 +1,6 @@
 package ladder.domain;
 
-import ladder.view.validator.PlayerValidate;
+import ladder.validator.PlayerValidate;
 
 import java.util.List;
 import java.util.Objects;

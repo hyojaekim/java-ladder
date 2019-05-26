@@ -1,10 +1,10 @@
 package ladder.view;
 
 import ladder.domain.LadderResult;
-import ladder.view.validator.LadderDepthValidate;
-import ladder.view.validator.PlayerValidate;
-import ladder.view.validator.RewardValidate;
-import ladder.view.validator.WantPlayerValidate;
+import ladder.validator.LadderDepthValidate;
+import ladder.validator.PlayerValidate;
+import ladder.validator.RewardValidate;
+import ladder.validator.WantPlayerValidate;
 
 import java.util.*;
 

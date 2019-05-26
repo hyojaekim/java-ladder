@@ -1,4 +1,4 @@
-package ladder.view.validator;
+package ladder.validator;
 
 import ladder.view.InputView;
 

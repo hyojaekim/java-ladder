@@ -1,8 +1,8 @@
 package ladder.domain;
 
-import ladder.view.validator.LadderDepthValidate;
-import ladder.view.validator.PlayerValidate;
-import ladder.view.validator.RewardValidate;
+import ladder.validator.LadderDepthValidate;
+import ladder.validator.PlayerValidate;
+import ladder.validator.RewardValidate;
 
 import java.util.*;
 

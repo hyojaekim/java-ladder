@@ -1,4 +1,4 @@
-package ladder.view.validator;
+package ladder.validator;
 
 import ladder.domain.LadderResult;
 import org.apache.commons.lang3.StringUtils;

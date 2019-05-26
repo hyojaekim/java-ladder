@@ -1,4 +1,4 @@
-package ladder.view.validator;
+package ladder.validator;
 
 import java.util.Arrays;
 import java.util.List;
